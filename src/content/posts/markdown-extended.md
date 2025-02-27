@@ -1,5 +1,5 @@
 ---
-title: Markdown Extended Features
+title: Wuhan University
 published: 2024-05-01
 updated: 2024-11-29
 description: 'Read more about Markdown features in Fuwari'
@@ -9,7 +9,7 @@ category: 'Examples'
 draft: false 
 ---
 
-## GitHub Repository Cards
+##  GitHub Repository Cards
 You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
 
 ::github{repo="Fabrizz/MMM-OnSpotify"}
